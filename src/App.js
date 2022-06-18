@@ -12,7 +12,7 @@ import './App.css';
 import LoginPage from './authPages/LoginPage/LoginPage';
 import RegisterPage from './authPages/RegisterPage/RegisterPage';
 import Dashboard from './Dashboard/Dashboard';
-import AlertNotification from '../../discord-frontend/src/shared/components/AlertNotification'
+import AlertNotification from '../src/shared/components/AlertNotification'
 
 export default function App() {
   return (
