@@ -2,7 +2,7 @@ import axios from 'axios';
 import { logout } from '../src/shared/utils/auth';
 
 const apiClient = axios.create({
-    baseURL: 'https://git.heroku.com/backend6577.git',
+    baseURL: 'https://backend6577.herokuapp.com/api',
     timeout: 10000,
 });
 
