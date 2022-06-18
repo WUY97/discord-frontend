@@ -2,6 +2,9 @@
   "name": "discord-frontend",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.15.0"
+  },
   "dependencies": {
     "@emotion/core": "^11.0.0",
     "@emotion/react": "^11.9.0",
